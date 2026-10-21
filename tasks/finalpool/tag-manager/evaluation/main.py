@@ -1,7 +1,8 @@
 # Evaluation script for tag-manager
 
 def run_evaluation():
-        return True
+    # TODO: Implement actual evaluation logic
+    return True
 
 if __name__ == '__main__':
     result = run_evaluation()
